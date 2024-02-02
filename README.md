@@ -8,27 +8,28 @@
         💻 Enthusiast Software Developer
     </li>
     <li>
-        📚 Experience working with languages like C# or JavaScript, for myself y am learning Phyton and eventually i want to learn React 
+        📚 Experience working with languages like C# or JavaScript, for myself y am learning Phyton and Angular and eventually i want to learn more technologies like React and mobile applications programming
     </li>
     <li>
-        🌐 Web development using HTML5, CSS and using frameworks like Bootstrap
+        🌐 Web development using HTML5, CSS and JavaScript
     </li>
     <li>
-        🚀 Every day are new things that we can learn, even things we have knowledge of. 
+        🚀 Every day are new things that we can learn, this is my favorite thing about programming
     </li>
   </ul>
-<div aling=left">
+<div align="center">
   <h2>Contact Me</h2>
   <a href="https://www.linkedin.com/in/jesus-mora-3b33611ba/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
   <a href = "jmora5556@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
+<div align="center">
   <h3>Programming Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,java,py,html,css" />
+    <img src="https://skillicons.dev/icons?i=cs,js,java,py,html,css,ts" />
   </a>
   <h3>Frameworks</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,jquery" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,jquery,angular" />
   </a>
   <h3>Software and Tools</h3>
   <a href="https://skillicons.dev">
